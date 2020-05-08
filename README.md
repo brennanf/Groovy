@@ -4,7 +4,7 @@
 
   In our project, we were able to create a moving background with funky music and an image of a flower that bounces randomly off the sides of the canvas. The only task we did not complete was adding sound effects to the flower when the bounced off the side as it felt unnecessary and like a sensory overload.
 
-  Jacklyn completed the code for the moving background while I, Faith, configured the music along with the flower image and its bouncing abilities.
+  Jaclyn completed the code for the moving background while Faith configured the music along with the flower image and its bouncing abilities.
   
   Keep On Keepin' On,
   Faith Brennan & Jaclyn Kennedy
